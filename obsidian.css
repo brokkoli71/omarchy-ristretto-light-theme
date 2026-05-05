@@ -1,0 +1,84 @@
+/* Ristretto Light Contrast — Obsidian theme */
+/* Synced automatically by omarchy-theme-set */
+
+.theme-light {
+  /* Base scale: warm cream → dark espresso */
+  --color-base-00: #fdf6ee;
+  --color-base-05: #f9efe3;
+  --color-base-10: #f4e8da;
+  --color-base-20: #ece0d4;
+  --color-base-25: #e4d8cc;
+  --color-base-30: #d9cfc4;
+  --color-base-35: #ccc3b8;
+  --color-base-40: #a09080;
+  --color-base-50: #8b7a68;
+  --color-base-60: #7a6550;
+  --color-base-70: #5c4e3a;
+  --color-base-100: #22211d;
+
+  /* Accent: olive green */
+  --color-accent-hsl: 90, 24%, 37%;
+  --color-accent: #5e8e28;
+  --color-accent-1: #6a9e30;
+  --color-accent-2: #7aaf38;
+
+  /* Backgrounds */
+  --background-primary: #fdf6ee;
+  --background-primary-alt: #f9efe3;
+  --background-secondary: #f4e8da;
+  --background-secondary-alt: #ece0d4;
+  --background-modifier-hover: rgba(122, 101, 80, 0.07);
+  --background-modifier-active-hover: rgba(122, 101, 80, 0.12);
+  --background-modifier-border: #ddd0c4;
+  --background-modifier-border-hover: #cfc5b8;
+  --background-modifier-border-focus: #5e8e28;
+  --background-modifier-error: rgba(223, 43, 13, 0.12);
+  --background-modifier-error-hover: rgba(223, 43, 13, 0.18);
+  --background-modifier-success: rgba(41, 71, 42, 0.12);
+
+  /* Text */
+  --text-normal: #22211d;
+  --text-muted: #7a6550;
+  --text-faint: #a09080;
+  --text-on-accent: #fdf6ee;
+  --text-error: #df2b0d;
+  --text-warning: #8a6c3e;
+  --text-success: #29472a;
+  --text-accent: #5e8e28;
+  --text-accent-hover: #496c1e;
+  --text-selection: rgba(94, 142, 40, 0.18);
+  --text-highlight-bg: rgba(138, 108, 62, 0.15);
+  --text-highlight-bg-active: rgba(94, 142, 40, 0.22);
+
+  /* Interactive */
+  --interactive-normal: #ece0d4;
+  --interactive-hover: #e4d8cc;
+  --interactive-accent: #5e8e28;
+  --interactive-accent-hsl: 90, 24%, 37%;
+  --interactive-accent-hover: #496c1e;
+  --interactive-success: #29472a;
+
+  /* Scrollbar */
+  --scrollbar-thumb-bg: rgba(160, 144, 128, 0.3);
+  --scrollbar-active-thumb-bg: rgba(122, 101, 80, 0.5);
+
+  /* Code blocks */
+  --code-normal: #22211d;
+  --code-background: #f4e8da;
+  --code-comment: #a09080;
+  --code-function: #5e8e28;
+  --code-important: #df2b0d;
+  --code-keyword: #28473f;
+  --code-operator: #8a6c3e;
+  --code-property: #3d6b52;
+  --code-string: #29472a;
+  --code-tag: #df2b0d;
+  --code-value: #e03c20;
+
+  /* Links */
+  --link-color: #5e8e28;
+  --link-color-hover: #496c1e;
+  --link-unresolved-color: #a09080;
+  --link-external-color: #3d6b52;
+  --link-external-color-hover: #28473f;
+}
