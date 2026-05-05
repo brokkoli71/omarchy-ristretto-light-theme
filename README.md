@@ -1,6 +1,6 @@
 # Ristretto Light - Omarchy Theme
 
-A warm, high-contrast light theme for Omarchy, inspired by the original Ristretto theme, reworked into a light variant with coffee tones and olive accents.
+A warm, high-contrast light theme for Omarchy, inspired by the original [Ristretto](https://github.com/basecamp/omarchy/tree/master/themes/ristretto) theme, reworked into a light variant with coffee tones and olive accents.
 
 ## Install
 
