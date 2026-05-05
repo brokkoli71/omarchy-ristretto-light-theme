@@ -13,7 +13,7 @@ If you want to remove it again, use `Remove` -> `Style` -> `Theme` and select it
 The new Omarchy CLI uses `omarchy theme` subcommands:
 
 ```bash
-omarchy theme install https://github.com/<your-username>/omarchy-ristretto-light-theme
+omarchy theme install https://github.com/brokkoli71/omarchy-ristretto-light-theme
 omarchy theme remove ristretto-light
 ```
 
