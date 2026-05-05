@@ -1,34 +1,25 @@
 # Ristretto Light - Omarchy Theme
 
-A warm, high-contrast light theme for Omarchy, inspired by coffee tones and olive accents.
+A warm, high-contrast light theme for Omarchy, inspired by the original Ristretto theme, reworked into a light variant with coffee tones and olive accents.
 
 ## Install
 
-1. Copy this repository URL.
-2. Press `SUPER + ALT + SPACE`.
-3. Open `Install` -> `Style` -> `Theme`.
-4. Paste the link and submit.
+You can install this theme by copying the GitHub URL and selecting `Install` -> `Style` -> `Theme` via the Omarchy menu (`Super + Alt + Space`).
 
-### CLI install
+If you want to remove it again, use `Remove` -> `Style` -> `Theme` and select it there.
+
+### CLI
+
+The new Omarchy CLI uses `omarchy theme` subcommands:
 
 ```bash
-omarchy-theme-install https://github.com/<your-username>/omarchy-ristretto-light-theme
+omarchy theme install https://github.com/<your-username>/omarchy-ristretto-light-theme
+omarchy theme remove ristretto-light
 ```
 
-## Preview setup
+## Previews
 
-Use the same structure as Archwave:
-
-1. Create a `preview/` folder.
-2. Add screenshots named `preview-0.png`, `preview-1.png`, `preview-2.png`, `preview-3.png`.
-3. Keep paths exactly as `preview/preview-<n>.png`.
-4. Add them to README with:
-
-```md
-![image 0](preview/preview-0.png)
-![image 1](preview/preview-1.png)
-![image 2](preview/preview-2.png)
-![image 3](preview/preview-3.png)
-```
-
-Tip: capture 3-4 screens (desktop, terminal, launcher, lock screen) so the theme is easy to evaluate.
+![preview 0](preview/preview-0.png)
+![preview 1](preview/preview-1.png)
+![preview 2](preview/preview-2.png)
+![preview 3](preview/preview-3.png)
